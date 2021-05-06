@@ -1,2 +1,2 @@
 # Employee-Recruitment-System-LPU-python-project-
-Hi Employee Recruitment System, it was made using python 3.6.2 and I would recommend to use Anaconda( jupyter Notebook) Run login.ipynb
+This Employee Recruitment System is developed with Python 3.6. This system is intended to provide complete solutions for job seekers to apply for jobs. It provides an interface for Login, Registration, Look for available Jobs and Apply for desired Jobs.
